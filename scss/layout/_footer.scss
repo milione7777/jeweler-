@@ -1,0 +1,84 @@
+.footer {
+  margin: 0 auto;
+  background-color: rgb(39, 39, 39);
+  height: 310px;
+  width: 1440px;
+  padding-top: 80px;
+}
+
+.position-footer {
+  display: flex;
+  column-gap: 80px;
+  margin-left: 8px;
+}
+
+.text-footer {
+  color: rgb(255, 255, 255);
+  font-family: Futura PT;
+  font-size: 18px;
+  font-weight: 450;
+  line-height: 18px;
+  letter-spacing: 6%;
+}
+
+.position-card-footer {
+  display: flex;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.footer-contact {
+  margin-left: 315px;
+  margin-right: 80px;
+}
+
+.title-footer-contact {
+  color: rgb(255, 255, 255);
+  font-family: Futura PT;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 5%;
+  margin-bottom: 15px;
+}
+
+.phone-footer-contact {
+  margin-bottom: 15px;
+  color: rgb(194, 194, 194);
+  font-family: Futura PT;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0%;
+}
+
+.svg-footer {
+  margin-left: 15px;
+}
+
+.news-footer {
+  color: rgb(255, 255, 255);
+  font-family: Futura PT;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 5%;
+  margin-bottom: 15px;
+}
+
+.border-footer {
+  border: 1px solid rgb(255, 255, 255); 
+  width: 280px;
+  margin-bottom: 17px;
+}
+
+.input-footer {
+  border: none;
+  background-color: transparent;
+  margin-bottom: 10px;
+}
+
+.send-footer {
+  height: 14px;
+  margin-left: 110px;
+}

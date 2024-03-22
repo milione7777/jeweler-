@@ -1,0 +1,93 @@
+.price {
+  margin-top: 20px;
+}
+
+.card-price {
+  width: 400px;
+  height: 400px;
+  background: rgb(237, 237, 237);
+}
+
+.position-card {
+  width: 1440px;
+  display: flex;
+  column-gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card-price + .card-price {
+  margin-top: 20px;
+}
+
+.img-maps {
+  margin-left: 70px;
+  margin-top: 47px;
+  margin-bottom: 67px;
+}
+
+.card-price-img {
+  height: 1000px;
+}
+
+.li-ring + .li-ring {
+  margin-top: 9px;
+}
+
+.ring-ul {
+  margin-left: 30px;
+}
+
+.ring-title {
+  color: rgb(39, 39, 39);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+}
+
+.ring-subtitle {
+  color: rgb(117, 117, 117);
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 23px;
+}
+
+.ring-price {
+  color: rgb(226, 182, 122);
+  font-style: italic;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.img-mapse {
+  width: 290px;
+  margin-left: 50px;
+}
+
+.img-center-fon {
+  width: 600px;
+  height: 850px;
+  background-image: url(/img/women-center.png);
+  background-repeat: no-repeat;
+  
+}
+
+.ring-ul-fon {
+    padding-left: 30px;
+    padding-top: 700px;
+}
+
+.ring-title-fon {
+    color: #fff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 21px;
+}
+
+.ring-subtitle-fon {
+    color: rgb(117, 117, 117);
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 23px;
+    color: rgb(231, 231, 231);
+}

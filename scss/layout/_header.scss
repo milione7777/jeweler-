@@ -1,0 +1,142 @@
+.header {
+  display: flex;
+}
+
+.position-header {
+  display: flex;
+}
+
+.content-header {
+  margin-left: 160px;
+}
+
+.border {
+  border: 0.5px solid rgb(39, 39, 39);
+  width: 130px;
+  height: 0;
+}
+
+.li-header {
+  display: flex;
+  align-items: center;
+}
+
+.logo-header {
+  margin-bottom: 320px;
+  margin-top: 77px;
+}
+
+.title-header {
+  margin-bottom: 50px;
+  color: rgb(39, 39, 39);
+  font-family: Forum;
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 71px;
+  letter-spacing: 3%;
+}
+
+.li-header + .li-header {
+  margin-top: 360px;
+}
+
+.li-position {
+  margin-left: 125px;
+}
+
+.subtitle-header {
+  color: rgb(39, 39, 39);
+  font-family: Segoe UI;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0%;
+  width: 350px;
+  margin-left: 50px;
+}
+
+.li-header {
+  column-gap: 10px;
+}
+
+.language-button {
+  color: rgb(39, 39, 39);
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 5%;
+}
+
+.language-button:hover {
+  color: rgb(196, 196, 196);
+  cursor: pointer;
+}
+
+.sidebar {
+  width: 562px;
+  height: 1024px;
+  background: rgb(39, 39, 39);
+  margin-left: 100px;
+}
+
+.position-icon {
+  margin: 77px 140px;
+  margin-bottom: 330px;
+  align-items: center;
+  margin-right: 0;
+}
+
+.icon-header + .icon-header {
+  margin-left: 40px;
+}
+
+.burger {
+  margin-left: 100px;
+}
+
+.ring {
+  margin-left: -146px;
+}
+
+.position-title-header {
+  margin: 280px 200px;
+  text-align: right;
+  margin-right: 0;
+  margin-bottom: 0;
+}
+
+.title-ring {
+  width: 220px;
+  color: rgb(255, 255, 255);
+  font-family: Futura PT;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 5%;
+}
+
+.subtitle {
+  width: 219px;
+  color: rgb(194, 194, 194);
+  font-family: Futura PT;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 23px;
+  letter-spacing: 0%;
+}
+
+.price-ring {
+  width: 219px;
+  color: rgb(239, 197, 139);
+  font-family: Segoe UI;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 3%;
+}
+
+
+.text-position + .text-position {
+  margin-top: 9px;
+}

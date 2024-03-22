@@ -1,0 +1,48 @@
+.carusel {
+  background-color: rgb(39, 39, 39);
+  width: 1440px;
+  height: 786px;
+  padding-top: 100px;
+}
+
+.title-carusel {
+  color: rgb(255, 255, 255);
+  font-size: 48px;
+  font-weight: 400;
+  line-height: 53px;
+  margin-left: 162px;
+}
+
+.carusel-position {
+    display: flex;
+    column-gap: 25px;
+    margin-top: 80px;
+    overflow: hidden;
+    margin-left: -170px;
+}
+
+.img-carusel {
+    margin-left: 170px;
+}
+
+.text {
+    color: #fff;
+}
+
+.position-list {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    column-gap: 17px;
+}
+
+.tip {
+    width: 8px;
+    height: 8px;
+}
+
+.position-carusel {
+    display: flex;
+    padding: 80px 162px;
+    column-gap: 20px;
+}
